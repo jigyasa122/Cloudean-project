@@ -1,0 +1,28 @@
+.cust-group
+{
+    display: flex;
+    justify-content: right;
+}
+.btn-custom
+{
+
+    width:150px;
+    height: 40px;
+    border-radius: 10px;
+    
+}
+td{
+    border-bottom: 1px solid gray;
+   
+
+
+}
+.btn-danger
+{
+    border-radius: 10px;
+    
+}
+.container
+{
+   font-family: 'Roboto', sans-serif;
+}
